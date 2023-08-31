@@ -1,0 +1,9 @@
+body { 
+    background-image: linear-gradient( to right, rgb(26, 2, 27) -20%, rgb(61, 8, 63), rgb(47, 2, 51), rgb(14, 1, 19) );
+    margin: 0;
+    color: white;
+}
+
+header {
+    padding: 20px;
+}
